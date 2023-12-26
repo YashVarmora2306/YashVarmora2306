@@ -15,4 +15,4 @@ JavaScript, React, Node.js,and any general software development questions.
 I love coding.
 
 # 🌐 Socials:
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yash-varmora-361b08260)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yash-varmora-361b08260/)
