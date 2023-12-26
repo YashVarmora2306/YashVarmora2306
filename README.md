@@ -1,18 +1,6 @@
 # 💫 About Me:
-#### 🔭 I’m currently working on:
-Improving my Full Stack Skill.
+🔭 **I’m currently working on:**  <br>Improving my Full Stack Skill.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>About ReactJs and nodeJs.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js,and any general software development questions.<br><br>⚡ **Fun fact:** <br>I love coding.
 
-#### 👯 I’m looking to collaborate on:
-Fullstack projects
-
-#### 🌱 I’m currently learning:
-About ReactJs and nodeJs.
-
-#### 💬 Ask me about:
-JavaScript, React, Node.js,and any general software development questions.
-
-#### ⚡ Fun fact:
-I love coding.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-varmora-361b08260/)
