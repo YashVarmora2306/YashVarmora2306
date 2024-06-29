@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving my Full Stack Skill.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>About ReactJs and nodeJs.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js,and any general software development questions.<br><br>⚡ **Fun fact:** <br>I love coding.
+🔭 **I’m currently working on:**  <br>Improving my Full Stack Skill.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>About ReactJs and nodeJs.<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js,and any general software development questions.
 
 
 ## 🌐 Socials:
